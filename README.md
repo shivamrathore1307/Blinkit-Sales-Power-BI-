@@ -1,7 +1,3 @@
-Here's a more **impressive** and **hiring-focused** `README.md` that highlights your **analytical skills**, **business impact**, and **technical expertise** in a way that will appeal to recruiters and hiring managers.  
-
----
-
 # 🚀 **Blinkit Sales Performance Analysis – Power BI Dashboard**  
 
 🔍 **Transforming Raw Data into Actionable Insights** | 📊 **Power BI | SQL | Data Analytics**  
