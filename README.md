@@ -1,6 +1,6 @@
 # 🚀 **Blinkit Sales Performance Analysis – Power BI Dashboard**  
 
-🔍 **Transforming Raw Data into Actionable Insights** | 📊 **Power BI | SQL | Data Analytics**  
+🔍 **Transforming Raw Data into Actionable Insights** | 📊 **Power BI | Data Analytics**  
 
 ## 📢 **Project Overview**  
 This project presents a **comprehensive sales analysis** of Blinkit, India’s last-minute delivery app, using **Power BI**. The dashboard delivers key insights into sales trends, customer behavior, and outlet performance, empowering businesses to optimize their **sales strategy, inventory planning, and customer experience**.  
@@ -24,7 +24,7 @@ This project presents a **comprehensive sales analysis** of Blinkit, India’s l
 
 ## 🛠 **Tools & Technologies Used**  
 🔹 **Power BI** – Interactive dashboard development & data visualization  
-🔹 **SQL / Excel** – Data cleaning, transformation, and preprocessing  
+🔹 **Excel** – Data cleaning, transformation, and preprocessing  
 🔹 **DAX (Data Analysis Expressions)** – Custom measures & calculated columns  
 
 ---
